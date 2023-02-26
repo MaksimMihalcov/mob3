@@ -1,0 +1,17 @@
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\bin\Debug\netstandard2.0\Mob3.deps.json
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\bin\Debug\netstandard2.0\Mob3.dll
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\bin\Debug\netstandard2.0\Mob3.pdb
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\obj\Debug\netstandard2.0\Mob3.csproj.AssemblyReference.cache
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\obj\Debug\netstandard2.0\Mob3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\obj\Debug\netstandard2.0\Mob3.AssemblyInfoInputs.cache
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\obj\Debug\netstandard2.0\Mob3.AssemblyInfo.cs
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\obj\Debug\netstandard2.0\Mob3.csproj.CoreCompileInputs.cache
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\obj\Debug\netstandard2.0\Mob3.dll
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\obj\Debug\netstandard2.0\refint\Mob3.dll
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\obj\Debug\netstandard2.0\Mob3.pdb
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\obj\Debug\netstandard2.0\ref\Mob3.dll
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\obj\Debug\netstandard2.0\Views\GeneratePage.xaml.g.cs
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3\obj\Debug\netstandard2.0\Views\ScanPage.xaml.g.cs

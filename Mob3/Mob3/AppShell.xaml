@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mob3.AppShell" xmlns:views="clr-namespace:Mob3.Views">
+    <TabBar>
+        <ShellContent
+            Title="Scan"
+            ContentTemplate="{DataTemplate views:ScanPage}">
+        </ShellContent>
+        <ShellContent
+            Title="Generate"
+            ContentTemplate="{DataTemplate views:GeneratePage}">
+        </ShellContent>
+    </TabBar>
+</Shell>

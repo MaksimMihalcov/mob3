@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oo/pSVTmDN6U6m1HMJr21hxLWMW+UvsWQalLChABIleqwRL+cUJi1aZA4QEddyQeJmsTKIso15GL+vR/rE5dfA==",
+  "success": true,
+  "projectFilePath": "D:\\ATHIS.PROJECT\\MOBIK\\Mob3\\Mob3\\Mob3\\Mob3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
