@@ -654,10 +654,7 @@ D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\android\assets\ZXing
 D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\android\assets\ZXing.Net.Mobile.Forms.dll
 D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\android\assets\zxing.portable.dll
 D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\android\assets\ZXingNetMobile.dll
-D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\androidx\jl\51164a7b-be2f-497a-87d7-cb913a2657ed.jar
 D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\stamp\_AndroidXJetifyJavaLibraryRules.stamp
-D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\androidx\proguard\5eecace1-5c8d-452b-9505-3263653a91e7.txt
-D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\androidx\proguard\ad04e093-b27e-4016-b4b7-61d4b4ef1a94.cfg
 D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\stamp\_AndroidXJetifyProguardRules.stamp
 D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\androidx\_AndroidXJetifyProguardRules.jetify
 D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\stamp\_AndroidXCecilfy.stamp
@@ -672,3 +669,9 @@ D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\android\src\crc64809
 D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\stamp\_AndroidXJetifyManifest.stamp
 D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\androidx\_AndroidXJetifyManifest.jetify
 D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\stamp\_CopyIntermediateAssemblies.stamp
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\android\assets\QRCoder.dll
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\android\assets\System.Text.Encoding.CodePages.dll
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\android\assets\System.Text.Encoding.CodePages.pdb
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\androidx\jl\14d79be8-12a4-4177-8369-51ffcbe3eeb4.jar
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\androidx\proguard\3d503bc5-08e1-42ad-ae65-68924a25390b.txt
+D:\ATHIS.PROJECT\MOBIK\Mob3\Mob3\Mob3.Android\obj\Debug\120\androidx\proguard\624586c2-8065-4d7c-80b1-169fef73f023.cfg

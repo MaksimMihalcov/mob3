@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿using QRCoder;
+using System;
+using System.IO;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using ZXing.Net.Mobile.Forms;
 
 namespace Mob3.Views
 {
@@ -25,17 +21,11 @@ namespace Mob3.Views
                 await DisplayAlert("Error: ", "Text is empty!", "Ok");
                 return;
             }
-            var qr = new ZXingBarcodeImageView
-            {
-                HorizontalOptions = LayoutOptions.FillAndExpand,
-                VerticalOptions = LayoutOptions.FillAndExpand
-            };
-            qr.BarcodeFormat = ZXing.BarcodeFormat.QR_CODE;
-            qr.BarcodeOptions.Height = 500;
-            qr.BarcodeOptions.Width = 500;
-            qr.BarcodeOptions.Margin = 10;
-            qr.BarcodeValue = qrText.Text;
-            stackL.Children.Add(qr);
+            QRCodeGenerator qrGenerator = new QRCodeGenerator();
+            QRCodeData qrCodeData = qrGenerator.CreateQrCode(qrText.Text, QRCodeGenerator.ECCLevel.Q);
+            PngByteQRCode qRCode = new PngByteQRCode(qrCodeData);
+            byte[] qrCodeBytes = qRCode.GetGraphic(20);
+            qrImage.Source = ImageSource.FromStream(() => new MemoryStream(qrCodeBytes));
         }
     }
 }

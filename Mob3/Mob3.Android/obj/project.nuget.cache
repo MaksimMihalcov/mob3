@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "BDrQX13w0XtFSk8LSLyRcJelKFUPoFJuMJShAkhYH0l3EwydGAJgrj4YEiBfpLJF3ijAIruv5ZPYU1saS4Nkfw==",
+  "dgSpecHash": "WE6xXBLhNoN3VxwgXKiMgMuXzMUK7PhtzOKlbTINBwXrXCjfTbj4IbqUOYXZShAL394hFJBW6QpnNizpK0zr9Q==",
   "success": true,
   "projectFilePath": "D:\\ATHIS.PROJECT\\MOBIK\\Mob3\\Mob3\\Mob3.Android\\Mob3.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Max\\.nuget\\packages\\fastandroidcamera\\2.0.0\\fastandroidcamera.2.0.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\system.drawing.common\\5.0.3\\system.drawing.common.5.0.3.nupkg.sha512",
     "C:\\Users\\Max\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
     "C:\\Users\\Max\\.nuget\\packages\\xamarin.android.support.annotations\\25.4.0.2\\xamarin.android.support.annotations.25.4.0.2.nupkg.sha512",
     "C:\\Users\\Max\\.nuget\\packages\\xamarin.android.support.compat\\25.4.0.2\\xamarin.android.support.compat.25.4.0.2.nupkg.sha512",
     "C:\\Users\\Max\\.nuget\\packages\\xamarin.android.support.core.ui\\25.4.0.2\\xamarin.android.support.core.ui.25.4.0.2.nupkg.sha512",
